@@ -258,7 +258,7 @@ In tuples the first item is the grouping key and the second item is the list.
 ~~~
 
 
-When using channel containing a tuple, such a one created with `.filesFromPairs` factory method, the corresponding input declaration must be declared with a `tuple` qualifier, followed by definition of each item in the tuple.
+When using channel containing a tuple, such a one created with `.fromFilePairs` factory method, the corresponding input declaration must be declared with a `tuple` qualifier, followed by definition of each item in the tuple.
 
 
 ~~~
